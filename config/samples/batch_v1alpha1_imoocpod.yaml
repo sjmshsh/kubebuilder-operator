@@ -1,0 +1,7 @@
+apiVersion: batch.schwarzeni.github.com/v1alpha1
+kind: ImoocPod
+metadata:
+  name: imoocpod-sample
+spec:
+  # Add fields here
+  replicas: 1
